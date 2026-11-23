@@ -1,0 +1,6 @@
+{
+  "name": "Swag Finds - Streetwear & Fit Check",
+  "description": "Selekcja niszowego streetwearu, szerokich krojów i ubrań z podglądem wideo oraz bezpośrednimi linkami do oficjalnych sklepów.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
